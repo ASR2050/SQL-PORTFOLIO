@@ -1,0 +1,10 @@
+-- Top 10 countries with Highest life expectancy rate
+SELECT
+    country_name,
+    life_expectancy
+  FROM
+    `bigquery-public-data.census_bureau_international.mortality_life_expectancy`
+  WHERE
+    year = 2016
+  order by 2 desc 
+  limit 10
