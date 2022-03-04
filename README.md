@@ -7,6 +7,9 @@ SQL queries for the gender related data across different countries, especially I
 2. Top 10 countries with the highest crude birth rate for 2022
 ![image](https://user-images.githubusercontent.com/100375430/156818160-56872bf2-6b40-4e78-aec0-18f5a1fc3cb4.png)
 
+3. Sex ratio of India (1991-2022)
+![image](https://user-images.githubusercontent.com/100375430/156819338-f22a4109-2d7d-47e4-b315-34c4729e260f.png)
+
 
 
 
