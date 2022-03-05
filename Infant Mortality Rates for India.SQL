@@ -1,4 +1,4 @@
---Mortality Rates for India (1991-2022)
+--Infant Mortality Rates for India (1991-2022)
 SELECT country_name
 ,year
 ,infant_mortality
