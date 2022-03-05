@@ -16,6 +16,8 @@ SQL queries for the gender related data across different countries, especially I
 5. Infant Mortality Rates for India (1991-2022)
 ![image](https://user-images.githubusercontent.com/100375430/156870527-1d82bfe2-421e-4e53-95fe-cf507e63efb6.png)
 
+6. Maximum Sex Ratio in India (1991-2022)
+![image](https://user-images.githubusercontent.com/100375430/156870815-af2232ea-ce78-4ff3-8527-bc5e76478a52.png)
 
 
 
