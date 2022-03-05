@@ -13,6 +13,9 @@ SQL queries for the gender related data across different countries, especially I
 4. Avg mid year population for Male & Female in India (1991-2022)
 ![image](https://user-images.githubusercontent.com/100375430/156870324-ba3a8ba2-30d1-47c7-bc3e-578c35afb1d0.png)
 
+5. Infant Mortality Rates for India (1991-2022)
+![image](https://user-images.githubusercontent.com/100375430/156870527-1d82bfe2-421e-4e53-95fe-cf507e63efb6.png)
+
 
 
 
