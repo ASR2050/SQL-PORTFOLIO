@@ -26,7 +26,9 @@ SQL queries for the gender related data across different countries, especially I
 ![image](https://user-images.githubusercontent.com/100375430/156871799-a5456004-04fb-42ea-924b-31cc5850fa7e.png)
 
 9. Ferility, gross reproduction & crude birth rate for all the countries starting with the letter 'A'
-SELECT 
+
  ![image](https://user-images.githubusercontent.com/100375430/156871927-b657969f-d52f-4f20-ab26-f3a6303a0d31.png)
 
-10. 
+10. Female Infant Mortality rate & country area for all the countries starting with 'I'
+![image](https://user-images.githubusercontent.com/100375430/156872195-c5c57fb4-2c8c-4082-9a25-a575c4346df2.png)
+
