@@ -19,5 +19,7 @@ SQL queries for the gender related data across different countries, especially I
 6. Maximum Sex Ratio in India (1991-2022)
 ![image](https://user-images.githubusercontent.com/100375430/156870815-af2232ea-ce78-4ff3-8527-bc5e76478a52.png)
 
+7. Average Life expectancy in India
+![image](https://user-images.githubusercontent.com/100375430/156870902-3ce1fcce-183a-475d-ba3e-acb2be614068.png)
 
 
