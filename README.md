@@ -22,4 +22,7 @@ SQL queries for the gender related data across different countries, especially I
 7. Average Life expectancy in India
 ![image](https://user-images.githubusercontent.com/100375430/156870902-3ce1fcce-183a-475d-ba3e-acb2be614068.png)
 
+8. Life Expectancy of Female Population & Sex ratio; of India (2022)
+![image](https://user-images.githubusercontent.com/100375430/156871799-a5456004-04fb-42ea-924b-31cc5850fa7e.png)
+
 
